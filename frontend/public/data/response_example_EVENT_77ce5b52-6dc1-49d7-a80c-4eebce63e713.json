@@ -1,0 +1,32 @@
+{
+    "website_url": null,
+    "venue": {
+        "current_total_capacity": 16000,
+        "name": "McNichols Sports Arena",
+        "uuid": "0825b7b5-851c-42db-8dd6-436cdf898f36",
+        "nickname": "Big Mac"
+    },
+    "uuid": "77ce5b52-6dc1-49d7-a80c-4eebce63e713",
+    "ppv": true,
+    "attendance": 7800,
+    "city": {
+        "name": "Denton",
+        "uuid": "bd30eda7-7a33-4bba-b998-03ee1a9961e9"
+    },
+    "enclosure": {
+        "title": "Octagon",
+        "uuid": "7c4c8a2c-30e0-48d2-bad2-59664fa1f595"
+    },
+    "event_date": "1993-11-12",
+    "total_gate": null,
+    "secondary_title": "The Ultimate Fighting Championship",
+    "wikipedia_url": null,
+    "ppv_buyrate": 86000,
+    "promotion": {
+        "acronym": "UFC",
+        "full_name": "Ultimate Fighting Championship",
+        "uuid": "cdf06f48-bcd0-4874-b962-8b2bf39f1bd2"
+    },
+    "event_start_time": "22:00",
+    "title": "UFC 1: The Beginning"
+}

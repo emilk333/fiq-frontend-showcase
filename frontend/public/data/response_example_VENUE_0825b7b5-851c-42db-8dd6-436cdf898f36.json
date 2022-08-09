@@ -1,0 +1,37 @@
+{
+    "demolished_date": "2000-01-24",
+    "current_total_capacity": 16000,
+    "last_expansion_date": null,
+    "events": [
+        {
+            "title": "UFC 2: No Way Out",
+            "uuid": "84c05953-4e14-4df9-ad14-f61349fb3943",
+            "promotion": {
+                "uuid": "cdf06f48-bcd0-4874-b962-8b2bf39f1bd2",
+                "acronym": "UFC",
+                "full_name": "Ultimate Fighting Championship"
+            }
+        },
+        {
+            "title": "UFC 1: The Beginning",
+            "uuid": "77ce5b52-6dc1-49d7-a80c-4eebce63e713",
+            "promotion": {
+                "uuid": "cdf06f48-bcd0-4874-b962-8b2bf39f1bd2",
+                "acronym": "UFC",
+                "full_name": "Ultimate Fighting Championship"
+            }
+        }
+    ],
+    "name": "McNichols Sports Arena",
+    "city": {
+        "uuid": "d450e6ee-1b69-47a8-8628-d923656fc361",
+        "name": "Denver City"
+    },
+    "broke_ground": "1973-08-08",
+    "opened_date": "1975-08-22",
+    "last_renovation_date": "1986-01-01",
+    "nickname": "Big Mac",
+    "address": "1635 Bryant St, Denver, CO 80204",
+    "uuid": "0825b7b5-851c-42db-8dd6-436cdf898f36",
+    "closed_date": "1999-09-29"
+}

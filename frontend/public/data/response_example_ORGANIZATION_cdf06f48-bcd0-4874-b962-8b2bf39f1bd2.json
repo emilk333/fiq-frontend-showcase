@@ -1,0 +1,62 @@
+{
+    "instagram_url": "https://instagram.com/ufc",
+    "full_name": "Ultimate Fighting Championship",
+    "uuid": "cdf06f48-bcd0-4874-b962-8b2bf39f1bd2",
+    "youtube_url": "http://www.youtube.com/user/UFC",
+    "legal_name": null,
+    "promotion_events": [
+        {
+            "venue": {
+                "name": "McNichols Sports Arena",
+                "current_total_capacity": 16000,
+                "uuid": "0825b7b5-851c-42db-8dd6-436cdf898f36",
+                "nickname": "Big Mac"
+            },
+            "uuid": "84c05953-4e14-4df9-ad14-f61349fb3943",
+            "title": "UFC 2: No Way Out",
+            "city": {
+                "name": "Denton",
+                "uuid": "bd30eda7-7a33-4bba-b998-03ee1a9961e9"
+            }
+        },
+        {
+            "venue": {
+                "name": "McNichols Sports Arena",
+                "current_total_capacity": 16000,
+                "uuid": "0825b7b5-851c-42db-8dd6-436cdf898f36",
+                "nickname": "Big Mac"
+            },
+            "uuid": "77ce5b52-6dc1-49d7-a80c-4eebce63e713",
+            "title": "UFC 1: The Beginning",
+            "city": {
+                "name": "Denton",
+                "uuid": "bd30eda7-7a33-4bba-b998-03ee1a9961e9"
+            }
+        }
+    ],
+    "facebook_url": "https://www.facebook.com/ufc",
+    "corporate_email": "support@ufc.tv",
+    "headquarters_country": {
+        "name": "United States",
+        "uuid": "2366b60c-e8e0-44cb-a3c3-892223dfc023"
+    },
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Ultimate_Fighting_Championship",
+    "organization_type": {
+        "uuid": "8a82b8a7-88d6-4284-88e4-0bbb4e53c99d",
+        "title": "Promotion"
+    },
+    "corporate_address": "2960 West Sahara Avenue Las Vegas, NV 89102 USA",
+    "twitter_url": "https://twitter.com/ufc",
+    "acronym": "UFC",
+    "founding_date": "1993-12-11",
+    "headquarters_state": {
+        "name": "Nevada",
+        "uuid": "fb4c49ea-7098-4960-aa42-67287a1d2d45"
+    },
+    "dissolution_date": null,
+    "headquarters_city": {
+        "name": "Las Vegas",
+        "uuid": "11f2dde1-4c94-4502-af45-695601b7fbe9"
+    },
+    "website_url": "https://www.ufc.com/"
+}

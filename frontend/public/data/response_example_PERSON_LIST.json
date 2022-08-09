@@ -1,0 +1,14 @@
+{
+    "total_pages": 1,
+    "total_items": 1,
+    "persons": [
+        {
+            "nationality": "American",
+            "uuid": "4f00e28e-cbf0-4ac8-988c-845c990e21c0",
+            "name": "'Money' Dana Frederick White",
+            "gender": "Female",
+            "is_fighter": true,
+            "age": 51
+        }
+    ]
+}

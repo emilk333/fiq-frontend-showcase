@@ -1,0 +1,22 @@
+
+
+:global(.fiq-button) {
+	width: fit-content;
+    background-color:transparent;
+	border-radius: 0.6rem;
+	border:2px solid $deep-purple;
+	display:inline-block;
+	cursor:pointer;
+	color:$text-primary;
+	font-size:1.2rem;
+	padding: 0.5rem 1.8rem;
+	text-decoration:none;
+    font-family: "Poppins", Helvetica, sans-serif;
+    font-weight: 500;
+}
+
+:global(.fiq-button--primary) {
+    color: $white;
+    background-color: $deep-purple;
+    border:2px solid $deep-purple-variation-1;
+}

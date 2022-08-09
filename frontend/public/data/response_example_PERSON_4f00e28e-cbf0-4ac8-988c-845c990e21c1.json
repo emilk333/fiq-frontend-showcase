@@ -1,0 +1,39 @@
+{
+    "uuid": "4f00e28e-cbf0-4ac8-988c-845c990e21c1",
+    "full_name": "Dana Frederick White TEST",
+    "website_url": null,
+    "first_name": "Dana",
+    "is_fighter": false,
+    "tapology_url": null,
+    "fighter_info": null,
+    "youtube_url": null,
+    "last_name": "White",
+    "date_of_death": null,
+    "birth_country": {
+        "uuid": "2366b60c-e8e0-44cb-a3c3-892223dfc023",
+        "name": "United States"
+    },
+    "birth_state": {
+        "uuid": "2a241574-6347-4dd5-9da1-a2eb7d312dee",
+        "name": "Connecticut"
+    },
+    "nickname": "Money",
+    "gender": "Female",
+    "facebook_url": null,
+    "date_of_birth": "1969-07-28",
+    "short_name": "Dana White",
+    "twitter_url": null,
+    "sherdog_url": null,
+    "instagram_url": null,
+    "promotion_url": null,
+    "bjjheroes_url": null,
+    "middle_name": "Frederick",
+    "ufc_stats_url": null,
+    "birth_city": {
+        "uuid": "94c2ec84-8018-4126-a094-1a660c70bdec",
+        "name": "Manchester"
+    },
+    "birth_name": "Dana Frederick White Jr.",
+    "wikipedia_url": null,
+    "complete_name": "'Money' Dana Frederick White"
+}

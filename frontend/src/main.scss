@@ -1,0 +1,12 @@
+
+
+
+@import 'scss/variables';
+@import 'scss/normalize';
+@import 'scss/button';
+@import 'scss/input';
+
+
+:global(body) {
+    background-color: $primary-background;
+}

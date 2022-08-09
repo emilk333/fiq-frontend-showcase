@@ -1,0 +1,28 @@
+{
+    "total_pages": 1,
+    "total_items": 2,
+    "events": [
+        {
+            "title": "UFC 2: No Way Out",
+            "attendance": 2000,
+            "event_date": "1994-03-11",
+            "uuid": "84c05953-4e14-4df9-ad14-f61349fb3943",
+            "ppv_buyrate": 300000,
+            "total_gate": 100,
+            "promotion_name": "UFC",
+            "ppv": false,
+            "city_name": "Denton"
+        },
+        {
+            "title": "UFC 1: The Beginning",
+            "attendance": 7800,
+            "event_date": "1993-11-12",
+            "uuid": "77ce5b52-6dc1-49d7-a80c-4eebce63e713",
+            "ppv_buyrate": 86000,
+            "total_gate": 200,
+            "promotion_name": "UFC",
+            "ppv": true,
+            "city_name": "Denton"
+        }
+    ]
+}

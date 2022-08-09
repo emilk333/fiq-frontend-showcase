@@ -1,0 +1,14 @@
+{
+    "total_pages": 1,
+    "total_items": 1,
+    "organizations": [
+        {
+            "full_name": "Ultimate Fighting Championship",
+            "hq_country": "United States",
+            "org_type": "Promotion",
+            "uuid": "cdf06f48-bcd0-4874-b962-8b2bf39f1bd2",
+            "founding_date": "1993-12-11",
+            "acronym": "UFC"
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+
+a {
+    text-decoration: none;
+}
+
+h1, h2, h3, h4, h5 {
+    color: $text-primary;
+}
+
+a, p, q, i, b {
+    color: $text-secondary;
+}
+
+.typeface-h1 {
+    font-family: 'Poppins', sans-serif;
+    font-size: 3.6rem;
+    font-weight: 500;
+    color: $text-primary;
+
+    &--regular {
+        font-weight: 200;
+        color: $text-tertiary
+    }
+
+    &--small {
+       font-size: 2.8rem;
+       margin: 0;
+    }
+}
+
+.typeface-h2 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    font-size: 1.8rem;
+    margin: 0;
+}
+
+.typeface-h3 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    font-size: 1.6rem;
+    margin: 0;
+}
+
+.typeface-p {
+    font-family: 'Poppins', sans-serif;
+    font-size: 1.4rem;
+    font-weight: normal; 
+    line-height: 1.9rem;
+    color: $text-tertiary;
+}
+
+.typeface-p-small {
+    font-family: 'Poppins', sans-serif;
+    font-size: 1.3rem;
+    font-weight: normal; 
+    line-height: 1.9rem;
+    color: $text-secondary;
+    margin: 0.5rem 0 0 0;
+}
+
+.typeface-p-light {
+    font-family: 'Poppins', sans-serif;
+    font-size: 1.4rem;
+    font-weight: 300; 
+    line-height: 2.2rem;
+    color: $text-tertiary;
+}
+
+.typeface-a {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    font-size: 1.4rem;
+    color: $text-links;
+
+    &:hover {
+        text-decoration: underline;
+    }
+}
